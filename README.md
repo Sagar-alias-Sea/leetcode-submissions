@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Sagar-alias-Sea/leetcode-submissions/tree/master/0204-count-primes) |
+| [1480-running-sum-of-1d-array](https://github.com/Sagar-alias-Sea/leetcode-submissions/tree/master/1480-running-sum-of-1d-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -47,4 +48,8 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Sagar-alias-Sea/leetcode-submissions/tree/master/0032-longest-valid-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Sagar-alias-Sea/leetcode-submissions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
