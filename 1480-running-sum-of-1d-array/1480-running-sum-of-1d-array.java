@@ -1,9 +1,7 @@
 class Solution {
     public int[] runningSum(int[] nums) {
-        int i = 1, n = nums.length;
-        while(i<n){
+        for(int i = 1; i<nums.length; i++){
             nums[i] = nums[i-1] + nums[i];
-            i++;
         }
         return nums;
     }
